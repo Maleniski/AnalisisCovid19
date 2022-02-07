@@ -1,4 +1,4 @@
-##Resumen ejecutivo:
+## Resumen ejecutivo:
 
 La presente página tiene como objetivo presentar los resultados de la actividad "Descargando y analizando los datos de COVID" del curso "Herramientas de Productividad para Ciencia de Datos" de la Universidad de Sonora.
 El objetivo del ejercicio es determinar cuál es la sintomatología más común para los casos pediátricos reportados en la base de datos del Estado de Sonora.

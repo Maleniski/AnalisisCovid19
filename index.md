@@ -1,4 +1,6 @@
-# Resumen ejecutivo:
+# Analizando datos de COVID-19
+
+## Resumen ejecutivo:
 
 <div style="text-align: justify">
 La presente página tiene como objetivo presentar los resultados de la actividad "Descargando y analizando los datos de COVID" del curso "Herramientas de Productividad para Ciencia de Datos" de la Universidad de Sonora.

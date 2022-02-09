@@ -28,7 +28,7 @@ Posteriormente, la base de datos filtrada se copió a la computadora por medio d
 
 ## Resultados
 
-El notebook con el análisis de los datos de los casos pediátricos puede encontrarse en [esta](https://github.com/Maleniski/AnalisisCovid19/blob/main/AnalisisPediatrico.ipynb) liga, pero las gráficas resultantes fueron las siguientes.
+El notebook con el análisis de los datos de los casos pediátricos puede encontrarse en [esta](https://github.com/Maleniski/AnalisisCovid19/blob/main/AnalisisPediatrico.ipynb) liga utilizando [esta](https://github.com/Maleniski/AnalisisCovid19/blob/main/PediatricoSonora.csv) base de datos, pero las gráficas resultantes fueron las siguientes.
 
 Factores de riesgo más frecuentes en niños de 0 a 12 años de Sonora.
 ![ninos](https://github.com/Maleniski/AnalisisCovid19/raw/main/ninos.PNG)

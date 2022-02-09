@@ -26,6 +26,8 @@ Posteriormente, la base de datos filtrada se copió a la computadora por medio d
 
 <code>docker cp AnalisisCovid:/PediatricoSonora.csv .</code>
 
+## Resultados
+
 El notebook con el análisis de los datos de los casos pediátricos puede encontrarse en [esta](https://github.com/Maleniski/AnalisisCovid19/blob/main/AnalisisPediatrico.ipynb) liga, pero las gráficas resultantes fueron las siguientes.
 
 Factores de riesgo más frecuentes en niños de 0 a 12 años de Sonora.

@@ -1,7 +1,7 @@
 # Analizando datos de COVID-19
 
 # Contenidos
-1. [Resumen](#Resumen)
+1. [Resumen ejecutivo](#Resumen-ejecutivo)
 2. [Metodología](#Metodologia)
 3. [Resultados](#Resultados)
 

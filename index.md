@@ -14,7 +14,7 @@ Dentro de un contenedor de Docker se corrió un script de la línea de comando d
 Posteriormente, se utilizó un Jupyter Notebook dentro de un env de Conda en Visual Studio Code para determinar por medio de la libreria Pandas y SeaBorn los factores de riesgo que se presenta con mayor frecuencia en los pacientes menores de 18 años.
 </div>
 
-## Metodología
+## Metodologia
 
 Por medio del un [Dockerfile](https://github.com/Maleniski/AnalisisCovid19/blob/main/AnalisisCovid_MalenaManzanares.dockerfile) (disponible en el repositorio) se baja un contenedor de ubuntu que incluye un [script de shell](https://github.com/Maleniski/AnalisisCovid19/blob/main/Covid19Script.sh) que realiza lo siguiente:
 

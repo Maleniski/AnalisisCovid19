@@ -1,6 +1,11 @@
 # Analizando datos de COVID-19
 
-## Resumen ejecutivo:
+# Contenidos
+1. [Resumen ejecutivo](#ResumenEjecutivo)
+2. [Metodología](#Metodologia)
+3. [Resultados](#Resultados)
+
+## Resumen ejecutivo
 
 <div style="text-align: justify">
 La presente página tiene como objetivo presentar los resultados de la actividad "Descargando y analizando los datos de COVID" del curso "Herramientas de Productividad para Ciencia de Datos" de la Universidad de Sonora.
@@ -11,13 +16,8 @@ Posteriormente, se utilizó un Jupyter Notebook dentro de un env de Conda en Vis
 
 ## Metodología
 
-Se creó un contenedor de ubuntu por medio del siguiente comando
+Por medio del un [Dockerfile](https://github.com/Maleniski/AnalisisCovid19/blob/main/AnalisisCovid_MalenaManzanares.dockerfile) (disponible en el repositorio) se baja un contenedor de ubuntu que incluye un [script de shell](https://github.com/Maleniski/AnalisisCovid19/blob/main/Covid19Script.sh) que realiza lo siguiente:
 
-<code>docker run -it --name AnalisisCovid -e LANG=C.UTF-8 ubuntu</code>
-
-Dentro de la imagen AnalisisCovid se creó un scrip de shell el cual de manera quasi-automática realiza lo siguiente:
-
-- Descarga las paqueterías necesarias para la limpieza de datos.
 - Descarga la base de datos de la página de [Datos Abiertos Dirección General de Epidemiología](https://www.gob.mx/salud/documentos/datos-abiertos-152127).
 - Limpia los datos considerando solo los datos de Sonora de pacientes menores de 18 años.
 - Genera un archivo PediatricoSonora.csv listo para ser analizado.

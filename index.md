@@ -2,7 +2,7 @@
 
 # Contenidos
 1. [Resumen ejecutivo](#Resumen-ejecutivo)
-2. [Metodología](#Metodologia)
+2. [Metodologia](#Metodologia)
 3. [Resultados](#Resultados)
 
 ## Resumen ejecutivo
